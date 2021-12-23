@@ -1,0 +1,23 @@
+##1: Data and Purpose
+This dataset is created using English Premier League match history data for 2019/2020 season obtained from https://datahub.io/sports-data/english-premier-league
+The dataset consists of 381 observations, each corresponding to a Premier League match stat for 2020/2021. Each game was run as a simulation, home vs away game stats, with 23 variables (e.g Total Goals by Home Team Before Half Time, Total Goals by Home Team Before Full Time,  Full Time Result, Total Shots, Total Shots on Target and so on).
+The objective of this study is to investigate various research questions as detailed below.
+This research is exploratory in nature, with no claims towards statistical inference being made.
+
+##2: Research Questions
+1: Home Stats
+a) Is there a correlation between win rate and teams playing at home?
+b) What top 3 teams have won more home than away games?
+2: Away Stats
+a) Is there a correlation between win rate and teams playing away from home?
+b) What top 3 teams have won more away than home games?
+3: Bookmaker accuracy
+a) How do the bookmakers’ predictions fare over the season? Are they better at predicting near the end?
+b) How successful are bookmakers at identifying draws?
+
+##3: Result
+At first glance it looks like most teams win at home but looking more closely at the graph we can see that this is only true for some teams. If we look at the full team stats we can find that this result is not surprising. Therefore, playing at home does not solely define whether or not teams win games at home.
+Looking at the data above the top 3 teams to win more games at home are Man City, Liverpool and Arsenal.
+
+We can see that teams tend to do well when they play at home but not by too much. Which tells us that there is a weak correlation between win rate and familiarity of stadium. This however does not mean there is no relation between the two variables. I will be discussing further on this on the next project to dive more deeper into the factors that influence a team’s performance the most.
+From the above graph it is clear that, Man City, Liverpool and Tottenham have won most matches away from home compared to the other 17 teams.
